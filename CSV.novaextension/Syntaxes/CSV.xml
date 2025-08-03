@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<syntax name="csv">
+    <meta>
+        <name>CSV</name>
+        <type>structured</type>
+        <preferred-file-extension>csv</preferred-file-extension>
+    </meta>
+    
+    <detectors>
+        <extension priority="1.0">csv</extension>
+    </detectors>
+    
+    <tree-sitter>
+        <highlights />
+    </tree-sitter>
+</syntax>

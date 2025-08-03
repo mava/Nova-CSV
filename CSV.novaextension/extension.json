@@ -1,0 +1,11 @@
+{
+    "identifier": "info.varisco.CSV",
+    "name": "CSV",
+    "organization": "Marco Varisco",
+    "description": "Syntax highlighting for CSV files.",
+    "version": "1.0",
+    "categories": ["languages"],
+    "repository": "https://github.com/mava/nova-csv",
+    "bugs": "https://github.com/mava/nova-csv/issues",
+    "license": "MIT"
+}
